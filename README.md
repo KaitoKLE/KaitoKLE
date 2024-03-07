@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 this is KaitoKLE!
 
-<!--
-**KaitoKLE/KaitoKLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Developer in the making! Still a student*
+**I can speak/read/understand**: Spanish, English.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Technologies and Tools:**
+- **Programming Languages**: Python, Java, C++, HTML, CSS, SQL (more incoming).
+- **Frameworks and Libraries**: Django, pygame (more incoming).
+- **Databases**: PostgreSQL (more incoming).
+- **Operating Systems**: Linux (Ex. Linux Mint, Ubuntu, Debian, etc), Windows.
+- **Developer Tools**: Git, GitHub, VSCode, JetBrains IDEs, NetBeans, CodeiumIA, Copilot.
+<!---
+Desktop Applications: Electron, Tauri.
+Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 -->
+
+**Currently working on:**
+- Videogames using pygame.
+- Database management.
+- Web development.
+
+**Currently learning:**
+- **Programming Languages**: C#, C, JavaScript, TypeScript.
+- **Frameworks and Libraries**: Django, pygame.
+- **Databases**: MySQL, SQLite.
+
+**How to reach me**:
+- luiserkrazy@gmail.com | kaitokle@proton.me
+- [Twitter/X](https://twitter.com/KaitoKLE)
+- [BlueSKy](https://bsky.app/profile/kaitokle.bsky.social)
