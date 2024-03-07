@@ -1,7 +1,10 @@
 ### Hi there 👋 this is KaitoKLE!
 
 *Developer in the making! Still a student*
+
 **I can speak/read/understand**: Spanish, English.
+
+
 
 **Technologies and Tools:**
 - **Programming Languages**: Python, Java, C++, HTML, CSS, SQL (more incoming).
