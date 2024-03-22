@@ -31,4 +31,4 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 - luiserkrazy@gmail.com
 - [Linkedin]() -> removed temporarily
 - [Twitter/X](https://twitter.com/KaitoKLE)
-- [BlueSKy](https://bsky.app/profile/kaitokle.bsky.social)
+- [Bluesky](https://bsky.app/profile/kaitokle.bsky.social)
