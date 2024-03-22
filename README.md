@@ -29,6 +29,6 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
 **How to reach me**:
 - luiserkrazy@gmail.com
-- [Linkedin](https://www.linkedin.com/in/luis-ernesto-cm-b23b052b7/)
+- [Linkedin]() -> removed temporarily
 - [Twitter/X](https://twitter.com/KaitoKLE)
 - [BlueSKy](https://bsky.app/profile/kaitokle.bsky.social)
