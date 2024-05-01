@@ -18,9 +18,9 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 -->
 
 **Currently working on:**
-- Videogames using pygame.
-- Database management.
 - Web development.
+- Database management.
+- Videogames using pygame.
 
 **Currently learning:**
 - **Programming Languages**: C#, C, JavaScript, TypeScript.
