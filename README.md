@@ -12,10 +12,6 @@
 - **Databases**: PostgreSQL (more incoming).
 - **Operating Systems**: Linux (Ex. Linux Mint, Ubuntu, Debian, etc), Windows.
 - **Developer Tools**: Git, GitHub, VSCode, JetBrains IDEs, NetBeans, CodeiumIA, Copilot.
-<!---
-Desktop Applications: Electron, Tauri.
-Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
--->
 
 **Currently working on:**
 - Web development.
@@ -24,7 +20,6 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
 **Currently learning:**
 - **Programming Languages**: C#, C, JavaScript, TypeScript.
-- **Frameworks and Libraries**: Django, pygame.
 - **Databases**: MySQL, SQLite.
 
 **How to reach me**:
