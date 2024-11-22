@@ -20,7 +20,7 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 **Currently working on:**
 - Web development.
 - Database management.
-- Videogames using pygame.
+- Videogames.
 
 **Currently learning:**
 - **Programming Languages**: C#, C, JavaScript, TypeScript.
@@ -29,6 +29,5 @@ Deployment/Hostings: Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
 **How to reach me**:
 - luiserkrazy@gmail.com
-- [Linkedin]() -> removed temporarily
+- [Linkedin](https://www.linkedin.com/in/kaitokle)
 - [Twitter/X](https://twitter.com/KaitoKLE)
-- [Bluesky](https://bsky.app/profile/kaitokle.bsky.social)
