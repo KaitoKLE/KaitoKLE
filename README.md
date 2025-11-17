@@ -12,5 +12,5 @@
 
 
 **How to reach me**:
-- kaitokle@outlook.com
+- kaitokle.lecm@gmail.com
 - [Twitter/X](x.com/KaitoKLE)
