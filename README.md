@@ -14,5 +14,5 @@
 **How to reach me**:
 - kaitokle.lecm@gmail.com
 - ~~[Twitter/X](x.com/KaitoKLE)~~
-- --[Twitter/X](x.com/kaitokle_lecm)--
+- ~~[Twitter/X](x.com/kaitokle_lecm)~~
 - Twitter/X seems to consider my existence dangerous so I'm no longer allowed to exist there.
