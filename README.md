@@ -15,4 +15,6 @@
 - kaitokle.lecm@gmail.com
 - ~~[Twitter/X](x.com/KaitoKLE)~~
 - ~~[Twitter/X](x.com/kaitokle_lecm)~~
-- Twitter/X seems to consider my existence dangerous so I'm no longer allowed to exist there.
+- Twitter/X seems to consider my existence dangerous. Sorry about that.
+- [Threads](https://www.threads.com/@kaitokle_lecm)
+- [Facebook](https://www.facebook.com/kaitokle)
