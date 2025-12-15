@@ -6,9 +6,9 @@
 
 
 **Main Programming Languages**: Python, Java, C, C++, JS, TS, etc.
-**Operating Systems**: Linux (Ex. Linux Mint, Ubuntu, Debian, etc), Microsoft Windows.
+**Operating Systems**: Debian-based Linux (Ex. Zorin OS, Linux Mint, Ubuntu, Debian, etc), Fedora Linux, Microsoft Windows.
 **Main Tools**: Git, GitHub, VSCode, JetBrains IDEs, NetBeans, etc.
-**AI & coding assistant**: Copilot, ChatGPT, DeepSeek, etc.
+**AI & coding assistant**: Copilot, ChatGPT, Claude, DeepSeek, etc.
 
 
 **How to reach me**:
